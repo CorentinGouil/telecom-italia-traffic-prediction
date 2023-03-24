@@ -1,4 +1,4 @@
-# trafic-prediction
+# Traffic Prediction with Telecom Italia dataset
 
 ## Data
 
