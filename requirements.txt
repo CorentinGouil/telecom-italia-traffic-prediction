@@ -6,3 +6,5 @@ ipykernel
 ipywidgets
 scipy
 statsmodels
+tensorflow
+scikit-learn

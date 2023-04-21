@@ -56,3 +56,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# For GPU Tensorflow
+libdevice.10.bc
